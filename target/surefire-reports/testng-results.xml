@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-07T18:33:42Z" name="Surefire suite" finished-at="2022-02-07T18:34:02Z" duration-ms="19596">
+    <groups>
+    </groups>
+    <test started-at="2022-02-07T18:33:42Z" name="Surefire test" finished-at="2022-02-07T18:34:02Z" duration-ms="19596">
+      <class name="com.autopoc.demopageauto.Testclass1">
+        <test-method is-config="true" signature="LanchDriver()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:42Z" name="LanchDriver" finished-at="2022-02-07T18:33:45Z" duration-ms="3152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanchDriver -->
+        <test-method signature="Test1()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:45Z" name="Test1" finished-at="2022-02-07T18:33:46Z" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:46Z" name="quit" finished-at="2022-02-07T18:33:47Z" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="LanchDriver()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:47Z" name="LanchDriver" finished-at="2022-02-07T18:33:50Z" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanchDriver -->
+        <test-method signature="Test2()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:50Z" name="Test2" finished-at="2022-02-07T18:33:53Z" duration-ms="3091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:53Z" name="quit" finished-at="2022-02-07T18:33:54Z" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="LanchDriver()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:54Z" name="LanchDriver" finished-at="2022-02-07T18:33:56Z" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanchDriver -->
+        <test-method signature="Test3()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:33:56Z" name="Test3" finished-at="2022-02-07T18:34:00Z" duration-ms="4774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.autopoc.demopageauto.Testclass1@f6efaab]" started-at="2022-02-07T18:34:00Z" name="quit" finished-at="2022-02-07T18:34:02Z" duration-ms="1106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.autopoc.demopageauto.Testclass1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
